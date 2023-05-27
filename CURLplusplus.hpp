@@ -8,6 +8,7 @@
 #include <curl/curl.h>
 #include <string>
 #include <sstream>
+#include <iostream>
 
 class CURLplusplus
 {
